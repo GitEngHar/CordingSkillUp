@@ -1,5 +1,6 @@
 ## 奨学金管理ツール 通称「奨すけ」
 ### 構成図
+![arch drawio](https://github.com/GitEngHar/CordingSkillUp/assets/119464648/75742d7f-0a32-456b-b6bc-243c64fd4958)
 
 ### できること
 #### 奨学金の管理操作を自動化しています
