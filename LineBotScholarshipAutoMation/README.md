@@ -2,6 +2,9 @@
 ### 構成図
 ![arch drawio](https://github.com/GitEngHar/CordingSkillUp/assets/119464648/75742d7f-0a32-456b-b6bc-243c64fd4958)
 
+### 活用されている例
+![image](https://github.com/GitEngHar/CordingSkillUp/assets/119464648/fcf0e6ea-aeea-47b5-9a4b-0d18a000ca1e)
+
 ### できること
 #### 奨学金の管理操作を自動化しています
 自動化している管理操作
@@ -30,3 +33,4 @@ monthを指定しない場合1月分の残高削除が行われます
 
 #### 奨学金の返済した額・月、返済が必要な額・月を確認したい
 `syosuke ls <name>`
+
